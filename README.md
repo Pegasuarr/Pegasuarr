@@ -22,11 +22,7 @@ I enjoy coding, exploring ideas, and building things step by step.
    </td>
    <td align="right">
 
-```txt
-   (\_/)
-   ( - _- )  <  just vibing...
-  / >🍵
-```
+<img width="538" height="531" alt="Image" src="https://github.com/user-attachments/assets/c8c9eba4-6be5-41f0-97e2-44d074326bfd" />
 
    </td>
   </tr>
