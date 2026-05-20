@@ -45,7 +45,7 @@ I enjoy coding, exploring ideas, and building things step by step.
 
 <img width="240" alt="Pegasuarr avatar" src="https://github.com/user-attachments/assets/c8c9eba4-6be5-41f0-97e2-44d074326bfd" />
 
-    </td>
+   Insouciant GUY
   </tr>
 </table>
 
