@@ -49,31 +49,6 @@ I enjoy coding, exploring ideas, and building things step by step.
   </tr>
 </table>
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=Pegasuarr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-
-<img height="170" src="https://streak-stats.demolab.com/?user=Pegasuarr&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-
-<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Pegasuarr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pegasuarr&theme=tokyonight&no-frame=false&margin-w=6&column=7" alt="Trophies" />
-
-</div>
-
----
 
 ## Contribution Graph
 
