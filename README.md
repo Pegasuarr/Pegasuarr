@@ -23,7 +23,7 @@
   <tr>
     <td width="60%" valign="top">
 
-## Hi there, I am Leangheng 👋
+## Hi there, I am Leangheng 
 
 ### About Me 🦄
 
