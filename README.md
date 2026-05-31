@@ -36,9 +36,6 @@ I enjoy coding, exploring ideas, and building things step by step.
 🌱 Currently learning and growing little by little.  
 🚀 Trying to make simple but cool projects.  
 
-### How to reach me 📬
-
-- GitHub: [Pegasuarr](https://github.com/Pegasuarr)
 
     </td>
     <td width="40%" align="center">
