@@ -36,10 +36,6 @@ I enjoy coding, exploring ideas, and building things step by step.
 🌱 Currently learning and growing little by little.  
 🚀 Trying to make simple but cool projects.  
 
-
-    </td>
-    <td width="40%" align="center">
-
 <img width="240" alt="Pegasuarr avatar" src="https://github.com/user-attachments/assets/c8c9eba4-6be5-41f0-97e2-44d074326bfd" />
 
    Insouciant GUY
