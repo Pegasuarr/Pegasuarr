@@ -42,13 +42,6 @@ I enjoy coding, exploring ideas, and building things step by step.
   </tr>
 </table>
 
-
-## Contribution Graph
-
-<div align="center">
-
-[![Leangheng's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pegasuarr&bg_color=1a1b27&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
 
 ---
