@@ -41,17 +41,3 @@ I enjoy coding, exploring ideas, and building things step by step.
    Insouciant GUY
   </tr>
 </table>
-
-</div>
-
----
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=Pegasuarr&icon=2&color=6)](https://visitcount.itsvg.in)
-
-*"First, solve the problem. Then, write the code."* — John Johnson
-
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4C1D95,100:7C3AED&height=120&section=footer)
